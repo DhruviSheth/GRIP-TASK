@@ -1,0 +1,5 @@
+Task 1- Pridict using suppervised ML
+This is a simple linear regression task as it involves just 2 variables.
+In this we rredict the percentage of an student based on the no. of study hours.
+Data can be found at http://bit.ly/W-data
+Sub task- what will be predicted score if a student study for 9.25 hrs/day ? 
